@@ -1,0 +1,19 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "raraEmailNotificationSecret",
+        "libraryId": "1V0DbSnIwgXaPH-L7jTO3kwqV-JPgPdqoqF3jdr3usXLMvZxFZunZkLfK",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_ACCESSING",
+    "access": "ANYONE"
+  }
+}
